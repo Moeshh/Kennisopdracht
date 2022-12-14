@@ -1,0 +1,25 @@
+#logo, #titel {
+	width: 50%;
+	height: 146px;
+	position: relative;
+	float: left;
+	background-color: #ddd;
+}
+#intro, #table, #various {
+	width: 100%;
+	position: relative;
+	float:left;
+}
+
+#intro p {
+	color: #241476;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+#table {
+	margin: 0 0 0 25px;
+}
+#table td {
+	border-bottom: 1px solid;
+	padding: 0 5px 0 5px;
+}
